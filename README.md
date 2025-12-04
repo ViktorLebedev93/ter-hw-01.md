@@ -78,6 +78,8 @@ keep_locally (Boolean) If true, then the Docker image won't be deleted on destro
 Перевод:
 Если это значение равно true, то образ Docker не будет удален при выполнении операции уничтожения. Если это значение равно false, то при выполнении операции уничтожения изображение будет удалено из локального хранилища docker.
 
+Исходные коды приложил здесь: https://github.com/ViktorLebedev93/ter-hw-01.md/tree/main/01
+
 ------
 
 ### Правила приёма работы
